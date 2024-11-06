@@ -1,0 +1,6 @@
+// tudo que não quero que trafegue de uma página para outra
+*.exe
+#algumaPasta
+*.pyc
+.vscode
+
